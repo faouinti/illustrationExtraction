@@ -34,6 +34,8 @@ data/images/*
 !data/images/zidane.jpg
 !data/images/bus.jpg
 !data/*.sh
+!/demo/test.jpg
+!/demo/preview.jpg
 
 results*.csv
 
@@ -255,6 +257,6 @@ crashlytics.properties
 crashlytics-build.properties
 fabric.properties
 
-# Dataset and model files
+# Datasets
 datasets/*
 !datasets/.gitkeep
